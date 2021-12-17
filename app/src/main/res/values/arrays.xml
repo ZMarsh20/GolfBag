@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types">
+        <item>Other</item>
+        <item>Driver</item>
+        <item>Wood</item>
+        <item>3-wood</item>
+        <item>5-wood</item>
+        <item>Hybrid</item>
+        <item>3-hybrid</item>
+        <item>5-hybrid</item>
+        <item>Iron</item>
+        <item>2-iron</item>
+        <item>3-iron</item>
+        <item>4-iron</item>
+        <item>5-iron</item>
+        <item>6-iron</item>
+        <item>7-iron</item>
+        <item>8-iron</item>
+        <item>9-iron</item>
+        <item>Wedge</item>
+        <item>P-Wedge</item>
+        <item>A-Wedge</item>
+        <item>S-Wedge</item>
+        <item>L-Wedge</item>
+        <item>Putter</item>
+    </string-array>
+
+    <string-array name="flexs">
+        <item>Other</item>
+        <item>Ladies</item>
+        <item>Regular</item>
+        <item>Stiff</item>
+        <item>Extra Stiff</item>
+    </string-array>
+
+</resources>
